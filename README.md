@@ -6,4 +6,4 @@ This codes idea is based off of the current website "Absurdle" by qntm. To visit
 [Click Here]:https://qntm.org/files/absurdle/absurdle.html
 
 ## How to Play
-Once the game begins, it will prompt you to enter a 5 letter word. The words were pulled off of a .txt file containing 5757 words.
+Once the game begins, it will prompt you to enter a 5 letter word. The words were pulled off of a .txt file containing 5757 words. Enter words until you guess which one the game has in store.
